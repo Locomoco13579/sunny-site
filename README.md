@@ -15,7 +15,7 @@
 | app-ads.txt | https://sunny.one-loop-inc.com/app-ads.txt | AdMob の app-ads.txt（1行） |
 | robots.txt / CNAME / .nojekyll | — | クロール許可／独自ドメイン指定／Jekyll を無効化（.txt は標準で text/plain） |
 
-問い合わせ先メールは `support@oneloopinc.net`（窓口用）。変えるときは privacy と support の4ページを直す（検索で `oneloopinc.net`）。
+問い合わせ先メールは `sunny-support@oneloopinc.net`（窓口用）。変えるときは privacy と support の4ページを直す（検索で `oneloopinc.net`）。
 
 ## app-ads.txt とサブドメイン（調べた結果）
 
